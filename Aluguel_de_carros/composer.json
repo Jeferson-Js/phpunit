@@ -1,0 +1,22 @@
+{
+  "name": "administrador/aluguel_de_carros",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "tests\\": "tests"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jeferson-Js",
+      "email": "oliveira.jeferson.jso@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^10.3"
+  }
+}
